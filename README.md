@@ -3,11 +3,11 @@ Some school problem sets that I practiced with that helped me learn Java. Covers
 
 Each problem set is stored in a folder, with a word document in each folder that stores the questions that the codes are answering. All of the code in the problem sets satisfy my school's autograder's test cases.
 
-(Integrated Development Environment (IDE) used to run these codes is [Android Studio](https://developer.android.com/studio) (not [VS Code](https://code.visualstudio.com/) anymore!).
+Integrated Development Environment (IDE) used to run these codes is [Android Studio](https://developer.android.com/studio) (not [VS Code](https://code.visualstudio.com/) anymore!).
 
 <br>
 
-*Important notes (for self):*  
+*Random Useful notes (for self):*  
 ![Screenshot 2025-04-15 021544](https://github.com/user-attachments/assets/4244f1a9-8f41-4ec3-ae73-5512a2bf43ff)
 
 
