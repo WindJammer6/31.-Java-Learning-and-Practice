@@ -1,5 +1,5 @@
 # 31.-Java-Learning-and-Practice ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio)
-Some school problem sets that I practiced with that helped me learn Java. Covers all the programming fundamentals from variables, datatypes, loops, access modifiers (e.g. private, public, etc.), non-access modifiers (e.g. static, final, abstract, synchronized), statements, classes (OOP), inheritance (OOP), abstract classes (OOP), interfaces (OOP), exceptions and programming principles.
+Some simple school problem sets that I practiced with that helped me learn Java. Covers all the programming fundamentals from variables, datatypes, loops, access modifiers (e.g. private, public, etc.), non-access modifiers (e.g. static, final, abstract, synchronized), statements, classes (OOP), inheritance (OOP), abstract classes (OOP), interfaces (OOP), exceptions and programming principles.
 
 Each problem set is stored in a folder, with a word document in each folder that stores the questions that the codes are answering. All of the code in the problem sets satisfy my school's autograder's test cases.
 
